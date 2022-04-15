@@ -84,6 +84,7 @@ public class Medidas {
 
     public static void calcularAreaModoCurto(){
         System.out.println("Cálculo de Areas Modo Curto");
+        System.out.println("-----------------------------");
 
         // Calcula de área - Reduzido
         int largura = 4;
@@ -96,6 +97,7 @@ public class Medidas {
     public static void calcularAreaModoExtenso(){
 
         System.out.println("Cálculo de Areas Modo Extenso");
+        System.out.println("-----------------------------");
 
         // Calculo de área - Exemplo: o tamanho do tapete ou do piso
         int largura;
@@ -114,6 +116,7 @@ public class Medidas {
         // Loops ou Repetições
         // for = repetição incondicional
         System.out.println("Contagem Crescente");
+        System.out.println("-----------------------------");
 
         for(int numero = 1; numero <= 10; numero++){
             System.out.println(numero);
@@ -122,6 +125,7 @@ public class Medidas {
 
     public static void contagemRegressiva(){
         System.out.println("Contagem Regressiva");
+        System.out.println("-----------------------------");
 
         for(int numero = 10; numero > -1; numero--){
             System.out.println(numero);
