@@ -2,8 +2,6 @@
 package intro;
 
 // 2 - Referência as bibliotecas
-
-
 import java.util.Scanner;
 
 // 3 - Classe
